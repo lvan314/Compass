@@ -47,7 +47,7 @@ public class CompassView extends View {
     private Paint mLightGrayPaint;
     //指南针上面 文字笔
     private Paint mTextPaint;
-    //外接圆，三角形笔
+    //外接圆，三角形笔 w1
     private Paint mCircumPaint;
     //指南针上面文字的外接矩形,用来测文字大小让文字居中
     private Rect mTextRect;
