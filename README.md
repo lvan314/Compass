@@ -1,7 +1,6 @@
 # Compass
 
-It is created for making a view of compass. it can be used for free.
-安卓端的一款简易的指南针插件，使用简单，只需获取传感器倾斜角传给View即可。
+一款简易的指南针插件，使用简单，只需获取传感器倾斜角传给View即可。
 
 ## 效果图
 
